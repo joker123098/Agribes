@@ -1,7 +1,7 @@
 <h1 align="center">Climate</h1>
 
 ![Climate web](https://github.com/sahajoydeep2002/Agribes/blob/main/Schematic%20diagrams/ezgif.com-gif-maker%20(1).gif) <p align = "centre">
-</p><img class = "centre" width = 110% src="![Climate web]">
+</p><img class = "centre" width = 110%
 </p>
 
 
