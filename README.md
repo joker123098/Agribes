@@ -1,9 +1,8 @@
 <h1 align="center">Climate</h1>
 
-![Climate web](https://github.com/sahajoydeep2002/Agribes/blob/main/Schematic%20diagrams/ezgif.com-gif-maker%20(1).gif)
+align="center" ![Climate web](https://github.com/sahajoydeep2002/Agribes/blob/main/Schematic%20diagrams/ezgif.com-gif-maker%20(1).gif)
 
-<h3 align="center">An Agri Tech Initiative to fight against The Increasing climate change
-</h3>
+<h3 align="center"> An Agri Tech Initiative to fight against The Increasing climate change </h3>
 
 ## Inspiration
 Due to the sudden change in climate the farmers are facing huge losses and lack precision farming. Making their conditions worst day by day.
